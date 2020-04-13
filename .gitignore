@@ -1,0 +1,7 @@
+.vs
+.idea
+build
+install
+*.*.filters
+*.*.user
+page.out
